@@ -25,8 +25,8 @@ It allows users to enter any city name and fetch real-time weather data such as 
 ## 🚀 How to Run the Project
 
 1. 📦 Install Required Library
-Make sure Python is installed. Then install the requests library using pip:
-pip install requests
+- Make sure Python is installed. Then install the requests library using pip:
+- pip install requests
 
 ### 🔑 Replace API Key
 - Go to https://openweathermap.org/api
